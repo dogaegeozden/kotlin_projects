@@ -1,7 +1,7 @@
 # Introduction 
-This repository is for my kotlin applications. It's one of the best programming languages. 
+This repository is for my kotlin applications. It's one of the best programming language. In order to use these applications, you should read installing the language and it's compiler and, usage sections carefully. 
 
-# Installing the language and it's compiler
+## Installing the language and it's compiler
 1) Download Java Development Kit from OpenJDK. Hint: This is development kit is open source. 
 https://jdk.java.net/java-se-ri/16
 2) Extract all files. Hint: You can use 7-zip. 
@@ -18,7 +18,7 @@ Hint: Check the fallowing link for the latest compiler and download the regular 
 11) Select the variable named "Path" in system variables, press edit and add the kompiler path. Note: There will be lot's of paths assigned to that variable don't delete all of them. First click select, second edit, third new, forth copy paste and finally, ok.
 12) Press ok one more time after you are sure that you added both path/address to collect variables. 
 
-# Usage 
+## Usage 
 1) Compile the app. If it's not compiled. If it's compiled skip this step and read step 2.
 ```batch
 kotlinc hello_word.kt -include-runtime -d hello_world.jar
