@@ -1,5 +1,5 @@
 # Introduction 
-This repository is for my kotlin applications. I'm having issues with building applications any, one who knows how to compile kotlin files can run and test them on command prompt or IDE's such as IntelJ IDE. 
+This repository is for my kotlin applications. It's one of the best programming languages. 
 
 # Installing the language and it's compiler
 1) Download Java Development Kit from OpenJDK. Hint: This contains the language. 
