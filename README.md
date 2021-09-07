@@ -2,7 +2,7 @@
 This repository is for my kotlin applications. It's one of the best programming languages. 
 
 # Installing the language and it's compiler
-1) Download Java Development Kit from OpenJDK. Hint: This contains the language. 
+1) Download Java Development Kit from OpenJDK. Hint: This is development kit is open source. 
 https://jdk.java.net/java-se-ri/16
 2) Extract all files. Hint: You can use 7-zip. 
 3) Find the bin folder in extracted folder and copy it's path as text. Ex: D:\downloads\jdk-16\bin
