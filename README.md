@@ -1,6 +1,7 @@
 # Introduction 
 This repository is for my kotlin applications. It's one of the best programming language. In order to use these applications, you should read installing the language and it's compiler and, usage sections carefully. 
 
+# Desktop Applications
 ## Installing the language and it's compiler
 1) Download Java Development Kit from OpenJDK. Hint: This is development kit is open source. 
 https://jdk.java.net/java-se-ri/16
@@ -35,3 +36,6 @@ kotlinc -help
 
 ## Atom 
 If you want to use Atom text editor to write kotlin applications. Install the language-kotlin package to see typing errors, auto code completion advises and etc. Write your app save it as appname.kt. Compile and run it as it described in Usage section. 
+
+# Mobile Applications 
+Some of these app are developed for android phones. So you should use android studio or an IDEA with an emulator or android development support. 
