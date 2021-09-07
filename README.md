@@ -32,3 +32,6 @@ Hint: Type the fallowing command to get more information about kotlin compiler
 ```batch 
 kotlinc -help
 ```
+
+# Atom 
+If you want to use Atom text editor to write kotlin applications. Install the language-kotlin package to see typing errors, auto code completion advises and etc. Write your app save it as appname.kt. Compile and run it as it described in Usage section. 
