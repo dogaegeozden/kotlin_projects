@@ -17,7 +17,7 @@ Hint: Check the fallowing link for the latest compiler and download the regular 
 9) Copy it's address/path as text. Ex: D:\downloads\kotlin-compiler-1.5.30\kotlinc\bin
 10) On windows computer first press windows key + x and then windows key + y . In the settings window search for view advanced system settings. Click edit environment variables.
 11) Select the variable named "Path" in system variables, press edit and add the kompiler path. Note: There will be lot's of paths assigned to that variable don't delete all of them. First click select, second edit, third new, forth copy paste and finally, ok.
-12) Press ok one more time after you are sure that you added both path/address to collect variables. 
+12) Press ok one more time after you are sure that you added both path/address to correct variables. 
 
 ## Usage 
 1) Compile the app. If it's not compiled. If it's compiled skip this step and read step 2.
