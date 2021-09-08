@@ -20,7 +20,7 @@ Hint: Check the fallowing link for the latest compiler and, download the regular
 12) Press ok one more time after you are sure that you added both path/address to correct variables. 
 
 ## Usage 
-1) Compile the app. If it's not compiled. If it's compiled skip this step and read step 2.
+1) Compile the app using cmd or wt. If it's not compiled. If it's compiled, skip this step and read step 2.
 ```batch
 kotlinc hello_word.kt -include-runtime -d hello_world.jar
 ```    
