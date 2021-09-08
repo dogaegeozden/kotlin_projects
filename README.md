@@ -38,4 +38,4 @@ kotlinc -help
 If you want to use Atom text editor to write kotlin applications. Install the language-kotlin package to see typing errors, auto code completion advises and etc. Write your app save it as appname.kt. Compile and run it as it described in Usage section. 
 
 # Mobile Applications 
-Some of these app are developed for android phones. So you should use android studio or an IDEA with an emulator or android development support. 
+Some of these app are developed for android phones. So you should use android studio or an IDEA with an emulator or android development support. To use android applications you should change your MainActivity.kt file and add the required resources to the files inside res folder. strings.xml, themes.xml and, etc. And then you should build the application using the gradle provided with android studio and run it using emulator or physical device is you open the developer options and allowing usb debugging. 
