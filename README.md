@@ -26,7 +26,7 @@ kotlinc hello_world.kt -include-runtime -d hello_world.jar
 ```    
 2) Run the application.
 ```batch
-java -jar hello.jar
+java -jar hello_world.jar
 ```
 
 Hint: Type the fallowing command to get more information about kotlin compiler 
