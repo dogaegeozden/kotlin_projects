@@ -22,7 +22,7 @@ Hint: Check the fallowing link for the latest compiler and, download the regular
 ## Usage 
 1) Compile the app using cmd or wt. If it's not compiled. If it's compiled, skip this step and read step 2.
 ```batch
-kotlinc hello_word.kt -include-runtime -d hello_world.jar
+kotlinc hello_world.kt -include-runtime -d hello_world.jar
 ```    
 2) Run the application.
 ```batch
