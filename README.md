@@ -10,7 +10,7 @@ https://jdk.java.net/17/
 4) On windows computer, first press windows key + x and, then windows key + y . In the settings window search for view advanced system settings. Click edit environment variables.
 5) Select the variable named "Path" in user variables, press edit and, add the development kit path. Note: There will be lot's of paths assigned to that variable don't delete all of them. First select, second edit, third new, forth copy paste and, finally ok.
 6) Download kotlin programming language compiler. 
-https://github.com/JetBrains/kotlin/releases/download/v1.5.30/kotlin-compiler-1.5.30.zip
+https://github.com/JetBrains/kotlin/releases/download/v1.6.10/kotlin-compiler-1.6.10.zip
 Hint: Check the fallowing link for the latest compiler and, download the regular compiler not, native mac, windows or, linux: https://kotlinlang.org/docs/tutorials/command-line.html
 7) Extract all the files.
 8) Find the bin folder, insdie extracted files.
