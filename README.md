@@ -8,7 +8,7 @@ https://jdk.java.net/archive/
 https://download.java.net/java/GA/jdk17.0.1/2a2082e5a09d4267845be086888add4f/12/GPL/openjdk-17.0.1_windows-x64_bin.zip
 2) Extract all files. Hint: You can use 7-zip. 
 3) Find the bin folder, in extracted folder, and copy it's path as text. Ex: D:\downloads\jdk-16\bin
-4) On windows computer, first press windows key + x and, then windows key + y . In the settings window search for view advanced system settings. Click edit environment variables.
+4) On windows computer, first press windows key + x and, then windows key + y . In the settings window search "edit environment variables for your account" and select it. Click edit environment variables.
 5) Select the variable named "Path" in user variables, press edit and, add the development kit path. Note: There will be lot's of paths assigned to that variable don't delete all of them. First select, second edit, third new, forth copy paste and, finally ok.
 6) Download kotlin programming language compiler. 
 https://github.com/JetBrains/kotlin/releases/download/v1.6.10/kotlin-compiler-1.6.10.zip
@@ -16,7 +16,7 @@ Hint: Check the fallowing link for the latest compiler and, download the regular
 7) Extract all the files.
 8) Find the bin folder, insdie extracted files.
 9) Copy it's address/path as text. Ex: D:\downloads\kotlin-compiler-1.5.30\kotlinc\bin
-10) On windows computer, first press windows key + x and, then windows key + y . In the settings window search for view advanced system settings. Click edit environment variables.
+10) On windows computer, first press windows key + x and, then windows key + y . In the settings window search "edit the system environment variables" and select it. Click edit environment variables.
 11) Select the variable named "Path" in system variables, press edit and add the kompiler path. Note: There will be lot's of paths assigned to that variable don't delete all of them. First click select, second edit, third new, forth copy paste and finally, ok.
 12) Press ok one more time after you are sure that you added both path/address to correct variables. 
 
