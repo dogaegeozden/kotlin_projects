@@ -39,4 +39,6 @@ kotlinc -help
 If you want to use Atom text editor to write kotlin applications. Install the language-kotlin package to see typing errors, auto code completion advises and etc. Write your app save it as appname.kt. Compile and run it as it described in Usage section. 
 
 # Mobile Applications 
-Soon, you can buy my mobile applications from google play store. Stay tuned folks. Google play store is not allowing me to sell my application with a Canadian account. 
+You can buy my mobile application from the fallowing [link][developerprofile].
+
+[developerprofile]: https://play.google.com/store/apps/dev?id=5106309994896081965
